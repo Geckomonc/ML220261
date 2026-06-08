@@ -24,7 +24,7 @@ variables creadas en la anterior. Si se ejecuta una celda fuera de orden puede
 aparecer un error de variable no definida.
 
 ## Video de explicación
-Explicación del código y resumen del proyecto:
+Explicación del código y resumen del proyecto: https://youtu.be/ce-pOhrpacE
 
 ## Informe final
 El informe completo del proyecto se encuentra en este repositorio:
